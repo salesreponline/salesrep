@@ -1,0 +1,12 @@
+graphenedb Sandbox:
+
+
+user: srmitronadmin
+pwd: b.6BMHJXo5tjX5.zoVWeOyYc7RBYMoC
+
+
+bolt://hobby-kbmckadjpbgagbkeebaihlcl.dbs.graphenedb.com:24786
+
+https://hobby-kbmckadjpbgagbkeebaihlcl.dbs.graphenedb.com:24780/db/data/
+
+
